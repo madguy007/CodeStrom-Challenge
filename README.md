@@ -16,3 +16,22 @@ This repository contains my submission for the **CodeStorm Challenge**, an inten
 
 ## 📁 Repository Structure
 
+CodeStorm-Challenge/
+├── notebooks/
+│ └── Capstone_Project_Introduction_to_Computer_Programming.ipynb
+├── .gitignore
+└── README.md
+
+
+⚠️ **Note:**  
+The notebook is large, so GitHub may not be able to render it.  
+Download the file to view it properly.
+
+## 🚀 How to Use
+1. Go to the `notebooks/` folder
+2. Download the `.ipynb` file
+3. Open in Google Colab or Jupyter Notebook
+
+---
+
+More improvements will be added soon!
