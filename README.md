@@ -28,3 +28,6 @@ The video explains:
 
 - `notebooks/codestorm_challenge_solutions.ipynb` – main notebook with solutions
 - `.gitignore` – Python-related files to ignore
+
+Note: The notebook is large, so GitHub cannot render it.
+Please download the file to view it.
