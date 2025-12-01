@@ -33,5 +33,8 @@ Download the file to view it properly.
 3. Open in Google Colab or Jupyter Notebook
 
 ---
+## 🎥 Video Explanation
+Watch my explanation video for 5 questions here:
+👉 [Video Link](https://drive.google.com/file/d/1ZieONU_YSZ9Ll4gGEniIKng9MdiJ0inp/view?usp=sharing)
 
 More improvements will be added soon!
