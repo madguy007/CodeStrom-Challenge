@@ -13,7 +13,7 @@ This repository contains my submission for the **CodeStorm Challenge**, an inten
 - Solved using Python (Google Colab)
 - Detailed explanations included inside the notebook
 - Created a video explanation for 5 selected questions
-
+```
 ## 📁 Repository Structure
 
 CodeStorm-Challenge/
@@ -21,7 +21,7 @@ CodeStorm-Challenge/
 │ └── Capstone_Project_Introduction_to_Computer_Programming.ipynb
 ├── .gitignore
 └── README.md
-
+```
 
 ⚠️ **Note:**  
 The notebook is large, so GitHub may not be able to render it.  
